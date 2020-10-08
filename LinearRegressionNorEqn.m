@@ -2,7 +2,7 @@
 
 % My template Matlab codes for Linear Regression with single/multiple variables
 % Algorithm: Normal Equation
-% LinearRegressionManualNorEqn.m
+% LinearRegressionNorEqn.m
 % Navid Salami Pargoo
 % 2020
 
