@@ -1,5 +1,5 @@
 # Linear Regression based on Normal Equation
-This repository provides a sample MATLAB code in order to perform a supervised Machine Learning algorithm: Gradient Descent based on normal equation.
+This repository provides a sample MATLAB code in order to perform a supervised Machine Learning algorithm: Linear Regression based on normal equation.
 
 # Organization of the Repository
 The main MATLAB file is named "LinearRegressionNorEqn.m" while the other MATLAB files are fuctions used in the main file. 
